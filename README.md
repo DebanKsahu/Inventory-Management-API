@@ -10,8 +10,8 @@
     uv sync
 4) Run the server :-
     uv run uvicorn app.main:app --reload
-Your server can be available at http://127.0.0.1:8000 
-You can access the DOC at http://127.0.0.1:8000/docs
+- Your server can be available at http://127.0.0.1:8000 
+- You can access the DOC at http://127.0.0.1:8000/docs
 
 ##  Products Endpoints ##
 
